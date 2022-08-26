@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaghavaVignesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently fluent in javascript,NodeJS,css,Html,Lua.
+- 🌱 I’m currently fluent in Java,Javascript,NodeJS,Css,Html,Lua.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
